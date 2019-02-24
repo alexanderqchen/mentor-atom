@@ -2,13 +2,10 @@
   "name": "mentor",
   "main": "./lib/mentor",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A package for the dev companion app Mentor.",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "mentor:toggle"
-  },
-  "repository": "https://github.com/atom/mentor",
+  "repository": "https://github.com/alexanderqchen/mentor-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

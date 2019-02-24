@@ -4,13 +4,18 @@ import "fmt"
 
 func main() {
 	////
-		for i in hello:
-			print(i)
+		list = [1, 2, 3, 4]
 
-		if asdf:
-			asdf
+		for item in list:
+			print(item)
+
+		if 1 > 0:
+			print("that's expected")
 		else:
-			ok i guess
+			print("that's unexpected")
+
+		def test:
+			print('hello world')
 
 	////
 	fmt.Println("Hello, world.")
