@@ -1,15 +1,13 @@
 {
   "name": "mentor",
   "main": "./lib/mentor",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A package for the dev companion app Mentor.",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/alexanderqchen/mentor-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
