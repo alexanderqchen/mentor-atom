@@ -1,7 +1,7 @@
 {
   "name": "mentor",
   "main": "./lib/mentor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A package for the dev companion app Mentor.",
   "keywords": [],
   "repository": "https://github.com/alexanderqchen/mentor-atom",
