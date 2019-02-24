@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle mentor",
+        "command": "mentor:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "mentor",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "mentor:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
